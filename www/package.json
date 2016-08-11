@@ -1,0 +1,9 @@
+{
+  "name": "tabris-app",
+  "description": "First Protoype of an TabrisJS App with Server-Client-functionality",
+  "main": "app.js",
+  "dependencies": {
+    "chart.js": "1.0.1",
+    "tabris": "1.7.0"
+  }
+}
